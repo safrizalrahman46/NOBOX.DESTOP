@@ -1,0 +1,294 @@
+[Language]
+Name=en-US
+ID=1033
+DisplayName=English (United States)
+
+[CodeLanguage]
+About=About
+ChangeTheme=Change Theme
+ChangeLang=Change Language
+ChangeLangTo=Change language to:
+
+Account=Account
+Accounts=Accounts
+Campaign=Campaign
+Campaigns=Campaigns
+Tool=Tool
+Tools=Tools
+Help=Help
+
+Start=Start
+Stop=Stop
+Completed={ToolName} is completed.
+
+Info=Info
+Ask=Ask
+CloseConfirm=Are you sure you want to exit the program?
+
+ThemeColorMatch=The theme color matching is automatically calculated
+DarkGreen=Dark Green
+BlueGreen=Blue Green
+Orange=Orange
+Red=Red
+Pink=Pink
+Purple=Purple
+Blue=Blue
+GreyBlue=Grey Blue
+Green=Green
+Brown=Brown
+Random=Random
+Default=Default
+
+Options=Options
+Filters=Filters
+Login=Login
+Username=Username
+Password=Password
+PleaseSetUserPwd=Please set username and password
+PhoneFormat=Phone Format
+FilterPhoneInitial=Filter Phone Initial
+FilterPhoneInitialInfo=Support multi separator ';' example '8;9'
+Interval=Interval
+Slow=Slow
+Normal=Normal
+Fast=Fast
+GetList=Get List
+NextPage=Next Page
+GetDetail=Get Detail
+Seconds=seconds
+Continue=Continue
+
+Category=Category
+LimitResults=Limit Results
+Data=data
+SaveToList=Save to List
+ListName=List name
+SelectListBeforeStart=Please select List before start
+
+IsDebug=Debug
+IsLoadImages=Load Images
+IsGetExternalSites=Get external sites
+IsExtractExternalSites=Extract external sites
+IsSaveOnlyHasPhone=Save result to MyNoBox only has phone
+
+FilterBlockedUrls=Filter Blocked Urls
+FilterBlockedEmails=Filter Blocked Emails
+
+ExportToExcel=Export to Excel
+ExportToCsv=Export to CSV
+ExportToJson=Export to JSON
+OtherOptions=Other Options
+Actions=Actions
+ResetDefault=Reset Default
+ClearCache=Clear Cache
+Test=Test
+
+Process=Process
+Results=Results
+Logs=Logs
+Outbox=Outbox
+Inbox=Inbox
+AiChatbot=AI Chatbot
+
+SendMessage=Send Message
+SendPerMessage=Send Per Message
+AddPerRow=Add Per Row
+Add=Add
+Edit=Edit
+Messages=Messages
+SelectFiles=Select files
+SelectedFiles=selected files
+HighPriority=High Priority
+MultiMessages=Multi Messages
+
+SendMediaAsDocument=Send Media as Document
+SendImageAsSticker=Send Image as Sticker
+SendAudioAsVoice=Send Audio as Voice
+SendVideoAsSticker=Send Video as Sticker
+SendVideoAsGif=Send Video as Gif
+IntervalSendMsg=Interval Send Messages
+
+SelectAll=Select All
+DeselectAll=Deselect All
+Reload=Reload (Refresh)
+Extra=Extra
+Pin=Pin Chat
+Unpin=Unpin Chat
+Mute=Mute Chat
+Unmute=Unmute Chat
+Archive=Archive Chat
+Unarchive=Unarchive Chat
+MarkAsRead=Mark as Read
+MasAsUnread=Mark as Unread
+ClearMessage=Clear Messages
+LeaveChat=Leave Chat
+DeleteChat=Delete Chat
+
+FltGroupOnly=Filter: Group
+FltUnreadOnly=Filter: Unread
+FltArchivedOnly=Filter: Archived
+FltMyContact=Filter: My Contact
+FltBusiness=Filter: Business
+FltBlocked=Filter: Blocked
+FltAdmin=Filter: Admin
+FltSuperAdmin=Filter: Super Admin
+
+OpenChatWindow=Open Chat Window
+GetGroupMembers=Get Group Members
+
+Manage=Manage
+Tests=Tests
+Chats=Chats
+Contacts=Contacts
+Groups=Groups
+Settings=Settings
+DebugProcess=Debug Process
+ReloadPage=Reload Page
+SendText=Send Text
+SendImage=Send Send Images (Jpg, Png)
+SendDoc=Send Send Documents (Pdf, etc)
+SendAudio=Send Send Audio (Mp3)
+SendVideo=Send Send Video (Mp4)
+SendSticker=Send Send Stickers (Webp, Png)
+SendLocation=Send Location
+SendContact=Send Contact
+SendButtons=Send Buttons (Not for Business)
+SendLists=Send Lists (Not for Busines)
+SendOrder=Send Order
+Others=Others
+GroupMembers=Group Members
+
+Act=Act
+Id=Id
+From=From
+To=To
+Name=Name
+Group=Group
+UnreadCount=Unread
+Archived=Archived
+MyContact=My Contact
+Business=Business
+Blocked=Blocked
+Admin=Admin
+SuperAdmin=Super Admin
+Message=Message
+Status=Status
+LastResponse=Last Response
+Urgent=Urgent
+Priority=Priority
+FirstMessage=First Message
+Search=Search
+Bot=AI Bot
+MessageCount=Messages
+
+Success=Success
+Successfully=Successfully
+Failed=Failed
+Paging=Paging
+Worker=Worker
+On=On
+Off=Off
+NextProcess=Next Process
+DataEmpty=Data is empty
+
+ErrGetGroupInfo=Can't get info from group '{chatId}'
+ErrGetGroupMember=Can't get participants from group '{chatId}'
+
+Select=Please select
+And=and
+Another=another
+SendMsgTo=Send message to
+ReloadWait=Reload page. Please wait
+LoadWeb=Load web
+WaitReady=Waiting {ToolCode} ready
+CheckQr=Check QR Code
+ScanQr=Please scan QR Code
+Disconnected=Nobox disconnected with {ToolCode}. Please try again after Nobox automatic reload {ToolCode} page
+AuthSuccess=Authentication is successfully
+ToolReady={ToolCode} automation is ready
+
+ParticipantsCount=Participants Count
+PinUnpin=Pin/Unpin
+FltChannelOnly=Filter: Channel Only
+FltChatOnly=Filter: Chat Only
+FltUsernameOnly=Filter: Username Only
+FltIsActive=Filter:Is Active
+
+AddToList=Add data to List
+SelectTarget=Please select the target
+SessionNotCompleted=Last session for '{ToolName}' is not completed. Do you want to continue the last session?
+DuplicateData=Duplicate data found (data exists in list)
+PleaseLogin=Please login first
+NoResultStop=No results found. Process stopped
+ReadyToStart=Ready to start
+Starting=Starting...
+Started=Started
+GoToPage=Go to page
+LinkNextPageNotFound=Link to next page is not found
+ReachedLimitList=You've reached the end of the list
+ReachedLimitScroll=Scroll limit is reached
+ReachedLimitTarget=Results achieved target limit
+Insert=Insert
+Update=Update
+DetailDataNotFound=Detail data not found
+LinkToUserNotFound=Link to user not found
+UserIdNotFound=UserId not found
+StopByUser=Stopped by user
+
+LoginFailed=Authentication failed. Please check your username or password
+DataMustNotEmpty=Data '{Control}' must not be empty.
+PhoneInitial=Support multi separator ';' example '8;9'
+
+PleaseSearch=Please search data and start again
+ScrollToBottom=Scroll to bottom
+QueueInfo=Page {xPage} - {xDiv} elements - Queue {xQueue} data
+GetExtSites=Get external sites
+ExtractData=Extract data
+
+ToolScraper=Data Scraper
+ToolExtractor=Data Extractor
+ToolAdd=Add Tool
+AccountAdd=Add Account
+
+PhonesToClip=Copy Phones to Clipboard
+PhonesPlusToClip=Copy Phone with '+' to Clipboard
+EmailToClip=Copy Emails to Clipboard
+ClearResult=Clear Results
+
+Phone=Phone
+Email=Email
+Website=Website
+Rating=Rating
+Reviews=Reviews
+Address=Address
+Timestamp=Timestamp
+Type=Type
+
+ClearLogs=Clear Logs
+
+GmSearchResult=Results for {SearchKeyword}
+GmNoResultFound=No results found
+GmReachEndList=reached the end of the list.
+GmSuggestAnEdit=Suggest an edit
+GmAboutData=About this data
+GmPhoneNumber=Copy phone number
+GmReview=review
+GmReview1=review
+GmReview2=reviews
+GmReviews=reviews
+GmReviews2=reviews
+GmNextPage=Next page
+GmOpenHours=. Hide open hours for the week
+GmLocatedIn=Located in:
+GmPlusCode=Plus code:
+
+Channel=Channel
+Client=Client
+Secret=Secret
+Notes=Notes
+Active=Active
+Engine=Engine
+Url=Url
+UrlEndpoint=Url Endpoint
+ApiDesc=API (Application Programming Interface)
+General=General

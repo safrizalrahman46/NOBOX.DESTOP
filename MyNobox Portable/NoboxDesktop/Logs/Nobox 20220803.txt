@@ -1,0 +1,1 @@
+2022-08-03 22:50:19.511 -07:00 [ERR] Telegram - sfzl Telegram - Start step 2 : You must provide a config value for api_hash
